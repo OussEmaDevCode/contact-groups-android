@@ -1,3 +1,4 @@
-# contact-groups-android
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/06bd6acff9cd4506985192596642ef5f)](https://www.codacy.com/app/JBossOutreach/contact-groups-android?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=JBossOutreach/contact-groups-android&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/73ffccc904d044e9866e4be45ad67daa)](https://app.codacy.com/app/OussEmaDevCode/contact-groups-android?utm_source=github.com&utm_medium=referral&utm_content=OussEmaDevCode/contact-groups-android&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.org/jboss-outreach/contact-groups-android.svg?branch=master)](https://travis-ci.org/jboss-outreach/contact-groups-android)
+
+# contact-groups-android
